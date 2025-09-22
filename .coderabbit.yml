@@ -1,0 +1,20 @@
+# Placeholder configuration for CodeRabbit.
+# Replace/extend according to official CodeRabbit docs.
+
+review:
+  enabled: true
+  require_approval: true
+  block_merge_on_fail: true
+  targets:
+    - pull_requests
+  languages: ["*"]
+  pr_summary: true
+  suggestions: true
+  chat: true
+  issue_validation: true
+
+notifications:
+  github_checks: true
+  pr_comments: true
+
+

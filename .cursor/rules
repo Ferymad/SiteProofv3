@@ -1,0 +1,14 @@
+Always use Context7 MCP for:
+- library/framework setup
+- API usage questions
+- debugging errors and stack traces
+
+Implementation:
+- Prefer tools: resolve-library-id, get-library-docs
+- Include doc version and links in outputs and ADRs
+- If multiple libraries plausible, ask or fetch top 2 and compare
+
+Constitution alignment:
+- Follow `.specify/memory/constitution.md` v1.2.0 gates
+- HITL strict start; EU-only processing; fixtures-first UI
+
